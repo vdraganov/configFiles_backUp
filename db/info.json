@@ -1,0 +1,61 @@
+{
+    "page": 1,
+    "results": [{
+        "poster_path": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/lUFK7ElGCk9kVEryDJHICeNdmd1.jpg",
+        "cover_image": "https://image.tmdb.org/t/p/original/9NzRllYCJyvn8SUnif6HyHPvLNH.jpg",
+        "popularity": 32.452574,
+        "id": 60735,
+        "vote_average": 6.59,
+        "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+        "first_air_date": "2014-10-07",
+        "in_favorites": 1,
+        "name": "The Flash",
+        "original_name": "The Flash"
+    }, {
+        "poster_path": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/i6Iu6pTzfL6iRWhXuYkNs8cPdJF.jpg",
+        "cover_image": "https://image.tmdb.org/t/p/original/iyT7STCmdTfJvpxY1GeJb6hh9Un.jpg",
+        "popularity": 19.828308,
+        "id": 37680,
+        "vote_average": 7.21,
+        "overview": "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory. Mike and Harvey are a winning team. Even though Mike is a genius, he still has a lot to learn about law. And while Harvey may seem like an emotionless, cold-blooded shark, Mike's sympathy and concern for their cases and clients will help remind Harvey why he went into law in the first place. Mike's other allies in the office include the firm's best paralegal Rachel and Harvey's no-nonsense assistant Donna to help him serve justice. Proving to be an irrepressible duo and invaluable to the practice, Mike and Harvey must keep their secret from everyone including managing partner Jessica and Harvey's arch nemesis Louis, who seems intent on making Mike's life as difficult as possible.",
+        "first_air_date": "2011-06-23",
+        "in_favorites": 1,
+        "name": "Suits",
+        "original_name": "Suits"
+    }, {
+        "poster_path": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/3iFm6Kz7iYoFaEcj4fLyZHAmTQA.jpg",
+        "cover_image": "https://image.tmdb.org/t/p/original/x0tPfuFCUCg68w2ZzwPkrTgFTA2.jpg",
+        "popularity": 47.11983,
+        "id": 1622,
+        "vote_average": 6.68,
+        "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+        "first_air_date": "2005-09-13",
+        "in_favorites": 1,
+        "name": "Supernatural",
+        "original_name": "Supernatural"
+    }, {
+        "poster_path": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/zqJxSzet2tAl34AiNj9zlfRWXx5.jpg",
+        "cover_image": "https://image.tmdb.org/t/p/original/5dMcDvKxqPgzSitf4cz6ug1P4Pv.jpg",
+        "popularity": 12.529765,
+        "id": 47665,
+        "vote_average": 6.39,
+        "overview": "The pirate adventure “Black Sails” centers on the tales of Captain Flint and his men and takes place twenty years prior to Robert Louis Stevenson’s classic “Treasure Island”. Flint, the most brilliant and most feared pirate captain of his day, takes on a fast-talking young addition to his crew who goes by the name John Silver. Threatened with extinction on all sides, they fight for the survival of New Providence Island, the most notorious criminal haven of its day – a debauched paradise teeming with pirates, prostitutes, thieves and fortune seekers, a place defined by both its enlightened ideals and its stunning brutality.",
+        "first_air_date": "2014-01-25",
+        "in_favorites": 1,
+        "name": "Black Sails",
+        "original_name": "Black Sails"
+    }, {
+        "poster_path": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/wQoosZYg9FqPrmI4zeCLRdEbqAB.jpg",
+        "cover_image": "https://image.tmdb.org/t/p/original/nGsNruW3W27V6r4gkyc3iiEGsKR.jpg",
+        "popularity": 45.803945,
+        "id": 1418,
+        "vote_average": 6.96,
+        "overview": "The Big Bang Theory is centered on five characters living in Pasadena, California: roommates Leonard Hofstadter and Sheldon Cooper; Penny, a waitress and aspiring actress who lives across the hall; and Leonard and Sheldon's equally geeky and socially awkward friends and co-workers, mechanical engineer Howard Wolowitz and astrophysicist Raj Koothrappali. The geekiness and intellect of the four guys is contrasted for comic effect with Penny's social skills and common sense.",
+        "first_air_date": "2007-09-24",
+        "in_favorites": 1,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory"
+    }],
+    "total_results": 5,
+    "total_pages": 1
+}
